@@ -1,6 +1,4 @@
 # 👋Hello, I'm Dennis Ong'or
-
-
 ## 🌱 About me 
 I am passionate about web development. I enjoy working on projects that involve coding and problem solving.
 ## 🎯Cuurent learning goals
