@@ -9,7 +9,17 @@ I am currently learning **computer programming**, focusing on:
 ## 🔧Technologies and Tools
 HTML5,CSS3,JavaScript,React,Next.js,Tailwind CSS,Node.js,Express.js,MongoDB,REST APIs,GitHub,VS Code,Linux,Command Line,Codespaces
 ## 📂Current projects
-I am still in the **learning process**, working on small projects to build my skills.  
+1. School Timetable Project
+Recreated a detailed school timetable for the 2024/2025 academic year using **HTML** and **CSS**. The project demonstrates:
+- Use of HTML tables with `rowspan` and `colspan` for cell merging.
+- Styling with CSS for consistent alignment, color coding, and font sizing.
+- Handling complex table layouts with merged headers and fixed column widths.
+### Features:
+✅ Clean and responsive design  
+✅ Correctly merged cells for breaks and lunch periods  
+✅ Consistent alignment of subjects and time slots
+### Screenshot:
+
 ## 📫How to Reach Me   
 ongordennis@gmail.com  
 
