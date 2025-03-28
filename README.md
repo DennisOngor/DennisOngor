@@ -19,7 +19,7 @@ Recreated a detailed school timetable for the 2024/2025 academic year using **HT
 ✅ Correctly merged cells for breaks and lunch periods  
 ✅ Consistent alignment of subjects and time slots
 ### Screenshot:
-
+![Timetable Preview](Timetable.png)
 ## 📫How to Reach Me   
 ongordennis@gmail.com  
 
